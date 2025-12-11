@@ -1,0 +1,259 @@
+{
+  "packages": [
+    {
+      "name": "follow-redirects",
+      "SPDXID": "SPDXRef-Package-3B4793028138A7D5E8C52DB5B098477C0A479E8FFC27F5086B1C7AF9905062B6",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.15.11",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/follow-redirects@1.15.11"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "hot-formula-parser",
+      "SPDXID": "SPDXRef-Package-519A74F6175475C25A67849E7EF617A8C47E6EC732806E95995145D656A79EC2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.3.3",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/hot-formula-parser@2.3.3"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "axios",
+      "SPDXID": "SPDXRef-Package-6D19DF19AC66E168E36833F7F3DD78EAD7DA137C6B518038424FBEBD1056912A",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.20.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/axios@0.20.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "bessel",
+      "SPDXID": "SPDXRef-Package-48C5537456F266146EE25C8DD2A11F495AEFE3D333728C859FB9C356987B7344",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.2.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/bessel@0.2.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "@handsontable/formulajs",
+      "SPDXID": "SPDXRef-Package-19E763D1D9183E60F81736A610017050B22151C9C721794768DEE8E64422C744",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.2.3",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/@handsontable/formulajs@1.2.3"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "voc",
+      "SPDXID": "SPDXRef-Package-45F74415B2A6209F48E0A32BE9CF82A7C58DE396CE4BD51A8E7CB59142540A39",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.2.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/voc@1.2.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "jStat",
+      "SPDXID": "SPDXRef-Package-01AC0B045A72F6C38A9479CC223D906E4324C0F9E32F405CD1E82830127F87FC",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.8.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/jstat@1.8.6"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "tiny-emitter",
+      "SPDXID": "SPDXRef-Package-95A777A8549472B6584AC133A97E9B48F30AEE67CE2962C1F4D5FB22A4B7AED2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "2.1.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/tiny-emitter@2.1.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "numbro",
+      "SPDXID": "SPDXRef-Package-86959DC877697C7FF8E3D30B861C724C3F16057B51DE43D59470612F4D65F3EC",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.11.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:npm/numbro@1.11.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "javascript-demo",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/Licensight/licensight-dev.homologation.cloud/javascript-demo@1.0.0?tag_id=d2cd44bf-5e56-4aa3-8c19-c173c43e11a8"
+        }
+      ],
+      "supplier": "Organization: Licensight",
+      "hasFiles": []
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-48C5537456F266146EE25C8DD2A11F495AEFE3D333728C859FB9C356987B7344",
+      "spdxElementId": "SPDXRef-Package-19E763D1D9183E60F81736A610017050B22151C9C721794768DEE8E64422C744"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-86959DC877697C7FF8E3D30B861C724C3F16057B51DE43D59470612F4D65F3EC",
+      "spdxElementId": "SPDXRef-Package-19E763D1D9183E60F81736A610017050B22151C9C721794768DEE8E64422C744"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-45F74415B2A6209F48E0A32BE9CF82A7C58DE396CE4BD51A8E7CB59142540A39",
+      "spdxElementId": "SPDXRef-Package-48C5537456F266146EE25C8DD2A11F495AEFE3D333728C859FB9C356987B7344"
+    },
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-95A777A8549472B6584AC133A97E9B48F30AEE67CE2962C1F4D5FB22A4B7AED2",
+      "spdxElementId": "SPDXRef-Package-519A74F6175475C25A67849E7EF617A8C47E6EC732806E95995145D656A79EC2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6D19DF19AC66E168E36833F7F3DD78EAD7DA137C6B518038424FBEBD1056912A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3B4793028138A7D5E8C52DB5B098477C0A479E8FFC27F5086B1C7AF9905062B6",
+      "spdxElementId": "SPDXRef-Package-6D19DF19AC66E168E36833F7F3DD78EAD7DA137C6B518038424FBEBD1056912A"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-519A74F6175475C25A67849E7EF617A8C47E6EC732806E95995145D656A79EC2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-01AC0B045A72F6C38A9479CC223D906E4324C0F9E32F405CD1E82830127F87FC",
+      "spdxElementId": "SPDXRef-Package-19E763D1D9183E60F81736A610017050B22151C9C721794768DEE8E64422C744"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-19E763D1D9183E60F81736A610017050B22151C9C721794768DEE8E64422C744",
+      "spdxElementId": "SPDXRef-Package-519A74F6175475C25A67849E7EF617A8C47E6EC732806E95995145D656A79EC2"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "javascript-demo 1.0.0",
+  "documentNamespace": "https://licensight-dev.homologation.cloud/javascript-demo/1.0.0/SZGX_SUOa0eziO6SiJGaGA",
+  "creationInfo": {
+    "created": "2025-12-11T03:00:36Z",
+    "creators": [
+      "Organization: Licensight",
+      "Tool: Licensight-scan-2.1.0.0"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

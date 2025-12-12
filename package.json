@@ -5,6 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "hot-formula-parser": "^2.3.0",
-    "axios": "^0.20.0"
+    "axios": "^0.30.2"
   }
 }
